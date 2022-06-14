@@ -1,4 +1,4 @@
-# passport-openidconnect
+# passport-openidconnect-keycloak-idp
 
 [Passport](https://www.passportjs.org/) strategy for authenticating
 with [OpenID Connect](https://openid.net/connect/).
